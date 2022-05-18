@@ -30,4 +30,4 @@ hi, i'm Selahattin Ahmed Ataşoğlu, a passionate self-taught jr. cyber security
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nashtic&show_icons=true&theme=gotham" alt="Nashtic" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nashtic&show_icons=true&theme=gotham" alt="nashtic" />
